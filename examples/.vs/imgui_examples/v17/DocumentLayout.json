@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1337\\Desktop\\ImGui-SquidBounce-DirectX11\\examples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F316E83-5AE5-4939-A723-305A94F48005}|example_win32_directx11\\example_win32_directx11.vcxproj|C:\\Users\\1337\\Desktop\\ImGui-SquidBounce-DirectX11\\examples\\example_win32_directx11\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F316E83-5AE5-4939-A723-305A94F48005}|example_win32_directx11\\example_win32_directx11.vcxproj|solutionrelative:example_win32_directx11\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\1337\\Desktop\\ImGui-SquidBounce-DirectX11\\examples\\example_win32_directx11\\main.cpp",
+              "RelativeDocumentMoniker": "example_win32_directx11\\main.cpp",
+              "ToolTip": "C:\\Users\\1337\\Desktop\\ImGui-SquidBounce-DirectX11\\examples\\example_win32_directx11\\main.cpp",
+              "RelativeToolTip": "example_win32_directx11\\main.cpp",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-08T16:09:51.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
