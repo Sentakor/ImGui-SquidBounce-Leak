@@ -2916,7 +2916,7 @@ struct ImFontConfig
 
     IMGUI_API ImFontConfig();
 };
-inline void print(const char* text);
+
 // Hold rendering data for one glyph.
 // (Note: some language parsers may fail to convert the 31+1 bitfield members, in this case maybe drop store a single u32 or we can rework this)
 struct ImFontGlyph
